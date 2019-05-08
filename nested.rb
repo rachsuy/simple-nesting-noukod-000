@@ -38,7 +38,7 @@ def alan_kay_is_known_for
         }
      }
      
-     	programmer_has[]
+     	programmer_has[:alan_kay]
 end
 
 def dennis_ritchies_language
